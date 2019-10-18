@@ -1,4 +1,3 @@
-
 function checkwin(array)
 {
     let pFound1 = 0;
